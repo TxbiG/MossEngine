@@ -1,2 +1,2 @@
-# Moss Engine
+# Mossy Engine
 Game engine
